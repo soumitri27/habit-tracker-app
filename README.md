@@ -25,16 +25,18 @@ HTML/CSS (Frontend)
 
 Setup and Installation
 1. Clone the Repository
-
 git clone https://github.com/soumitri27/habit-tracker-app.git
 cd habit-tracker-app
+
 
 3. Install Dependencies
 You need Python 3.x installed on your system. Then, install Flask via pip:
 
 
+
 pip install flask
 3. Run the Application
+
 
 
 python app.py
